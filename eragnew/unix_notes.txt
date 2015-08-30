@@ -1,0 +1,11 @@
+cd <path> -> Change the working directory to <path>
+ls -> List the content of the current directory
+pwd -> Display the path of the current directory
+man <program> -> Display the manual page for <program>
+mv <file1> <file2> -> Move/rename <file1> to <file2>
+cp <file1> <file2> -> Copy <file1> to <file2>
+rm <file> -> Delete <file>
+cat <file> -> Display the content of <file>
+mkdir <name> -> Create new directory called <name>
+chmod -[options] <file> -> Change [read/write/execute] permissions for <file>
+nano <file> -> Open/create <file> in nano text editor

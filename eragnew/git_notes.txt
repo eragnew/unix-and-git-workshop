@@ -1,0 +1,8 @@
+git clone <url> -> Clone repo found at <url>
+git checkout -b <branch-name> -> Create and swith to <branch-name>
+git branch -> List branches
+git init -> Initialize directory as git repo
+git add <files/dirs> -> Track <files/dirs>
+git commit -m <message> -> Commit changes with message
+git push <remote-name> <branch-name> -> Push commits to remote repo
+
